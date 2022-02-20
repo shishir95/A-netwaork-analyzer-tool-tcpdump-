@@ -11,6 +11,6 @@ Tcpdump is a command line utility that allows you to capture and analyze network
 # How to get HTTP traffic? Share the command.
 Firstly, we will have to install tcpdump by running command below:
 
-'''
+```
 apt install tcpdump
-'''
+```
